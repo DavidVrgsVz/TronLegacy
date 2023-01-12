@@ -1,3 +1,5 @@
+# Casos ODP Desaparecidas
+
 Mes diciembre: 10 casos
 Pase: 03/01/2023
 
@@ -7,4 +9,4 @@ Pase: 03/01/2023
 
 * **CASO-03:** [OK] No ponen correctamente el canal de desembolso (AMBOS) cuenta de ahorros.
 
-* **TAREA-01** [OK] Revisar que cubrió Renzo en el proyecto 22500-184
+* **TAREA-01** [OK] Revisar que cubrió Renzo en el proyecto 22500-184 (Cubrió CASOS{01 y 03})
